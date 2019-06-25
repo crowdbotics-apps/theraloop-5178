@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT theraloop_5178.wsgi:application
